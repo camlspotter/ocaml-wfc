@@ -1,0 +1,4 @@
+(executable
+ (name wfc)
+ (flags :standard)
+ (libraries camlimages.core camlimages.png))
