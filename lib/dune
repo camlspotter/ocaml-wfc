@@ -1,4 +1,5 @@
-(executable
+(library
  (name wfc)
+ (public_name wfc)
  (flags :standard)
  (libraries camlimages.core camlimages.png))
